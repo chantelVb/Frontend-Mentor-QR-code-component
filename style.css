@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+  
+}
+body{
+    background-color: rgb(214, 226, 240);
+    text-align: center;
+    height: 100vh;
+    margin: 0 auto;
+            
+}
+.code-container{
+    background-color: hsl(0, 0%, 100%);
+    width: 19rem;
+    margin: 0 auto;
+    border-radius: 5%;
+    margin-top: 8rem;    
+}
+.QR-Code img{
+    width: 17rem;
+    border-radius: 5%;
+    margin: 5% 0 5%;
+    
+}
+h3{
+    color: hsl(218, 44%, 22%);
+    padding: 0 2rem;
+    font-size: larger;
+}
+p{
+    padding: 0 1.40rem 3rem 1.40rem;
+    color: hsl(220, 15%, 55%);
+}
+footer{
+    margin-top: 5rem;
+}
